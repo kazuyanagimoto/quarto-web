@@ -4,6 +4,12 @@
   description: >
     PDF format for high quality academic manuscripts
 
+- name: academic-typst
+  path: https://github.com/kazuyanagimoto/quarto-academic-typst
+  author: '[Kazuharu Yanagimoto](https://github.com/kazuyanagimoto)'
+  description: >
+    A clean Typst template for academic manuscripts
+
 - name: awesomecv-typst
   path: https://github.com/kazuyanagimoto/quarto-awesomecv-typst
   author: '[Kazuharu Yanagimoto](https://github.com/kazuyanagimoto)'
